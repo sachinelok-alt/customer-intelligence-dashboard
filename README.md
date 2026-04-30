@@ -22,7 +22,3 @@ This project analyzes customer behavior using RFM segmentation to identify high-
 * `sql/` – SQL analysis queries
 * `dashboard/` – Power BI dashboard file
 * `screenshots/` – Dashboard preview
-
-## Dashboard Preview
-
-![Dashboard Preview](screenshots/dashboard_preview.png)
